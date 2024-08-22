@@ -1,9 +1,5 @@
 # Line following mobile robot with color sensor
-This repository contains all files and documents for the Line following mobile robot. The robot was constructed for the Mechatronics Design Project Course at Ho Chi Minh City University of Technology (HCMUT). Our team member includes:
-- Huynh Ba Loc
-- Phan Dang Khoi Nguyen
-- Truong An Quoc
-- Nguyen Hoang Minh
+This repository contains all files and documents for the Line following mobile robot. The robot was constructed for the Mechatronics Design Project Course at Ho Chi Minh City University of Technology (HCMUT).
 
 The sequence of operation is as follow:
 1. Starts following the line until the loading zone, which is marked by a horizontal line.
